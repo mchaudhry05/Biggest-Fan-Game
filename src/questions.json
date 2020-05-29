@@ -1,0 +1,41 @@
+{ 
+    "Questions": [
+     {
+        "id": 0, 
+        "coverImage": "./images/views.jpg" ,
+        "options": ["God's Plan", "Controlla", "Best I Ever Had", "Toosie Slide"], 
+        "answer": "Controlla",
+        "correct": "false"
+    }, 
+   {
+        "id": 1, 
+        "coverImage": "./images/scorpian.jpg", 
+        "options": ["Nonstop", "Fire & Desire", "Money in the Grave", "Both"], 
+        "answer": "Nonstop",
+        "correct": "false"
+    }, 
+   {
+        "id": 2, 
+        "coverImage": "./images/takecare.jpg" , 
+        "options": ["6 Man", "6 God", "No Tellin'", "Marvin's Room"], 
+        "answer": "Marvin's Room",
+        "correct": "false"
+    }, 
+    {
+        "id": 3, 
+        "coverImage": "./images/thankmelater.jpg" , 
+        "options": ["March 14", "Take Care", "Best I Ever Had", "Furthest Thing"], 
+        "answer": "Best I Ever Had",
+        "correct": "false"
+    }, 
+    {
+        "id": 4, 
+        "coverImage": "./images/sofargone.jpg" , 
+        "options": ["Best I Ever Had", "Elevate", "Take Care", "Doing it Wrong"], 
+        "answer": "Best I Ever Had",
+        "correct": "false"
+    }
+
+    ]
+}
+    

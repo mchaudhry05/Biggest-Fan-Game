@@ -1,0 +1,46 @@
+{
+    "LevelTwo": [
+        {
+            "id": 5, 
+            "lyric": "sweatpants hair tied chillin' with no make up on" ,
+            "options": ["God's Plan", "Best I Ever Had", "Nonstop", "Elevate"],
+            "answer": "Best I Ever Had", 
+            "correct": "false"
+        },
+        {
+            "id": 6, 
+            "lyric": "tables turn, bridges burn, you live and learn",
+            "options": ["Tuscan Leather", "All Me", "Poundcake", "Jaded"],
+            "answer": "Poundcake", 
+            "correct": "false"
+        },
+        {
+            "id": 7, 
+            "lyric": "me and my friends we got money to spend",
+            "options": ["Jersey", "30 for 30", "Both", "Change Location"],
+            "answer": "Change Location", 
+            "correct": "false"
+        },
+        {
+            "id": 8, 
+            "lyric": "f--k goin' online that ain't part of my day",
+            "options": ["Marvin's Room", "Energy", "Legend", "6 Man"],
+            "answer": "Energy", 
+            "correct": "false"
+        },
+         {
+            "id": 9, 
+            "lyric": "i'm managed by my friends that I grew up with",
+            "options": ["6 Man", "Both", "6PM in New York", "Jungle"],
+            "answer": "6PM in New York", 
+            "correct": "false"
+        }, 
+        {
+            "id": 9, 
+            "lyric": "i'm managed by my friends that I grew up with / i'd rather give that 15% to people I f--k with",
+            "options": ["6 Man", "Both", "6PM in New York", "Jungle"],
+            "answer": "6PM in New York", 
+            "correct": "false"
+        }
+    ]
+}
