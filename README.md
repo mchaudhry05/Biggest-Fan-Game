@@ -21,5 +21,5 @@ Firstly, I want to add more levels to the game. Next I want to add the Spotify A
 ![](/images/3.png)
 ![](/images/4.png)
 ![](/images/5.png)
-![](/images/5.png)
+![](/images/6.png)
 
